@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "Binance Spot public REST: fetch klines and exchangeInfo, normalize OHLCV candles and symbol filters."
 readme = "README.md"
-repository = "https://github.com/Freesciencenetwork/rust_scalper_engine"
+repository = "https://github.com/Freesciencenetwork/binance_spot_candles"
 license = "MIT"
 default-run = "binance-fetch"
 
