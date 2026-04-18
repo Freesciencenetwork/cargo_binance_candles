@@ -1,6 +1,6 @@
-# binance_spot_candles
+# cargo_binance_candles
 
-Small Rust library for **read-only** Binance Spot market data:
+Small Rust library for **read-only** Binance Spot market data (Rust crate **`binance_spot_candles`** on crates.io):
 
 - `GET /api/v3/klines` → normalized `Candle` rows
 - `GET /api/v3/exchangeInfo` → `SymbolFilters` (`tick_size`, `lot_step`)
