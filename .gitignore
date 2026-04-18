@@ -1,0 +1,16 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Environment / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+*.swp
+*.swo
+*~
